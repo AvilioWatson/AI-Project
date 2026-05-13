@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+google-genai
+groq
+edge-tts
+moviepy
+Pillow
+pysrt
+python-dotenv
+huggingface_hub

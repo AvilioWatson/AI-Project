@@ -1,0 +1,23 @@
+# Environment
+.env
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database
+*.db
+
+# Generated outputs
+outputs/
+
+# IDE
+.vscode/
+.idea/
